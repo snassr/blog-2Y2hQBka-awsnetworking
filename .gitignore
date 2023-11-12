@@ -1,0 +1,8 @@
+# keys
+*.pem
+*.key
+
+# tf
+.terraform
+*.plan
+
